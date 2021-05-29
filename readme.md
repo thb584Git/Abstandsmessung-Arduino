@@ -12,9 +12,7 @@
   - Datenverbindung SDA,SCL
   - XSHUT, GPIO nicht verwendet pullups auf breakoutboard
 
-
-
-![img](.\misc\adafruit_products_VL53L0X.png)
+![img](./misc/adafruit_products_VL53L0X.png)
 
 
 
