@@ -1,5 +1,7 @@
 # Entfernungsmessung (Time of Flight) Proof of Concept
 
+Version 0.1
+
 ## Aufbau
 
 - Visual Studio Code mit Plattform IO
